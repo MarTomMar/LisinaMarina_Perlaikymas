@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2009a0d5-7eb4-405b-b682-5079f8adb40b" name="Changes" comment="Perlaikymas">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractObjectPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyAccountInformationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RegistrationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/WaitUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Test_CRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test_CRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/suite.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2009a0d5-7eb4-405b-b682-5079f8adb40b" name="Changes" comment="Perlaikymas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642489901921</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Perlaikymas">
+      <created>1642507908429</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642507908429</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Perlaikymas">
+      <created>1642507990254</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642507990254</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
